@@ -44,3 +44,5 @@
 * Theory
 	* [Software Diagrams](software-diagrams.md)
 	* [REST API pattern](rest.md)
+	* [Being the Tech Lead](techlead.md)
+
